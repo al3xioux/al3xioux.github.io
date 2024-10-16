@@ -1,5 +1,4 @@
-
-
+/* Titre principal */
 .big-title {
     padding: 0 0 0 30px;
     font-family: "poppinslight";
@@ -14,6 +13,7 @@
     font-size: 11vw;
 }
 
+/* Séparation */
 .separation1 {
     width: 60%;
     height: 2px;
@@ -21,6 +21,7 @@
     margin: 20px 0 0 30px; 
 }
 
+/* Section de présentation */
 #presentation {
     padding: 0 30px 0 40px;
     margin-top: 10%;
@@ -29,6 +30,7 @@
     font-size: 5vw;
 }
 
+/* Section des travaux */
 .works h3 {
     text-decoration: underline;
     padding: 0 0 20px 30px;
@@ -66,6 +68,7 @@
     font-family: "poppinslight";
 }
 
+/* Section de veille */
 .veille h3 {
     text-decoration: underline;
     padding: 0 0 20px 75%;
@@ -102,6 +105,7 @@
     font-family: "poppinslight";
 }
 
+/* Pied de page */
 footer {
     display: flex;
 }
