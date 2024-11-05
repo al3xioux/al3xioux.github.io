@@ -78,4 +78,6 @@ footer .social {
 
 .link a {
     padding: 0 8px 0 0;
+    text-decoration: none;
+    color: #262628
 }
